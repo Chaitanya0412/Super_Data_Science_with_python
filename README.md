@@ -1,2 +1,3 @@
 # Super_Data_Science_with_python
-Super Data science with Python
+Super Data science with Python is a Udemy course from Kiril
+Learning python....
